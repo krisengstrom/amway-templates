@@ -94,7 +94,7 @@ section.grid {margin:$sectionGutterWidth (-$gutterWidth/2);}
 //  ==========================================================================
 //  Layout
 //  ==========================================================================
-#site-header {position:relative; padding-top:80px; font-size:14px;
+#site-header {position:relative; padding-top:80px; font-size:14px; background:red !important;
 	#logo {position:absolute; left:50%; margin-left:-62px; top:30px; width:125px;}
 	#menu-toggle, #mobile-menu-toggle {display:none;}
 	.widgets {font-family:ITCFranklinGothicW01-Hv_812689; text-transform:uppercase; margin-bottom:0;
@@ -166,10 +166,11 @@ section.grid {margin:$sectionGutterWidth (-$gutterWidth/2);}
 
 @include breakpoint(mobile) {padding:0;
 	.container {padding:0; height:50px; position:fixed; background:#fff; z-index:500; top:0;
-		.widgets {font-size:0px; padding:0 15px;
+		.widgets {font-size:0px; padding:0 15px; position:relative; z-index:500;
 			.col {margin:0;}
 			i {font-size:20px; height:50px; width:50px; text-align:center; line-height:50px;}
 		}
+		#breadcrumbs {display:none;}
 	}
 	#logo {width:70px; top:15px; z-index:1; margin-left:-35px;}
 	#mobile-menu-toggle {display:block; float:left; margin-left:11px; height:50px; width:50px; background:#fff; color:$font-color;
