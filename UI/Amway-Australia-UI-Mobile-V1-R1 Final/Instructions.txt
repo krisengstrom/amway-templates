@@ -1,0 +1,103 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: Amway-Australia-UI-Mobile-V1-R1.indd
+
+PACKAGE DATE: 2/06/2015 11:16 am
+Creation Date: 2/06/2015
+Modification Date: 2/06/2015
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 1
+
+ExtensisFontManagementIDCC2014.InDesignPlugin
+
+
+Non Opaque Objects :On Page1, 2, 3, 4, 5, 6, 9
+
+FONTS
+8 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Arial-BoldMT; Type: OpenType TrueType, Status: OK
+- Name: ArialMT; Type: OpenType TrueType, Status: OK
+- Name: FloodStd; Type: OpenType Type 1, Status: OK
+- Name: FontAwesome; Type: OpenType Type 1, Status: OK
+- Name: ITCFranklinGothicStd-BkCd; Type: OpenType Type 1, Status: OK
+- Name: ITCFranklinGothicStd-Demi; Type: OpenType Type 1, Status: OK
+- Name: ITCFranklinGothicStd-Hvy; Type: OpenType Type 1, Status: OK
+- Name: ITCFranklinGothicStd-Med; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 19 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 19 use RGB color space
+
+
+PRINT SETTINGS
+PPD: Device Independent, (PostScript® File)
+Printing To: Prepress File
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 px, 0 px, 0 px, 0 px
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: All
+OPI/DCS Image Replacement: No
+Page Size: Custom: 1240 px x 2000 px
+Paper Dimensions: 0 px x 0 px
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. Amway-Australia-UI-Mobile-V1-R1.indd; type: Adobe InDesign publication; size: 11456K
+2. Amway-Australia-UI-Mobile-V1-R1.idml; type: InDesign Markup Document; size: 520K
+3. Amway-Australia-UI-Mobile-V1-R1.pdf; type: Adobe Acrobat Document; size: 1087K
+4. Arial Bold.ttf; type: Font file; size: 733K
+5. Arial.ttf; type: Font file; size: 756K
+6. FloodStd.otf; type: Font file; size: 56K
+7. FontAwesome.otf; type: Font file; size: 91K
+8. ITCFranklinGothicStd-BkCd.otf; type: Font file; size: 30K
+9. ITCFranklinGothicStd-Demi.otf; type: Font file; size: 30K
+10. ITCFranklinGothicStd-Hvy.otf; type: Font file; size: 30K
+11. ITCFranklinGothicStd-Med.otf; type: Font file; size: 30K

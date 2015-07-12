@@ -1,0 +1,243 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+MenuName:Arial
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Arial Bold
+WritingScript:Roman
+OutlineFileName:\Arial Bold.ttf
+DataFormat:sfntData
+FileLength:751104
+FileModTime:1274762157
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+MenuName:Arial
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Arial
+WritingScript:Roman
+OutlineFileName:\Arial.ttf
+DataFormat:sfntData
+FileLength:774476
+FileModTime:1274762157
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FloodStd
+FamilyName:Flood Std
+StyleName:Regular
+MenuName:Flood Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Flood Std
+WritingScript:Roman
+OutlineFileName:\FloodStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:57948
+FileModTime:1188257374
+DesignSize:240
+NameArray:0,Mac,4,Flood Std
+NameArray:0,Win,1,Flood Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FontAwesome
+FamilyName:FontAwesome
+StyleName:Regular
+MenuName:FontAwesome
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FontAwesome
+WritingScript:Roman
+OutlineFileName:\FontAwesome.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:93888
+FileModTime:1429304184
+NameArray:0,Mac,4,FontAwesome
+NameArray:0,Win,1,FontAwesome
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCFranklinGothicStd-BkCd
+FamilyName:ITC Franklin Gothic Std
+StyleName:Book Condensed
+MenuName:ITC Franklin Gothic Std Bk Cd
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:ITC Franklin Gothic Std Book Condensed
+WritingScript:Roman
+OutlineFileName:\ITCFranklinGothicStd-BkCd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31348
+FileModTime:1187795624
+DesignSize:120
+NameArray:0,Mac,18,ITC Franklin Gothic Std Bk Cd
+NameArray:0,Mac,4,ITC Franklin Gothic Std Book Condensed
+NameArray:0,Win,1,ITC Franklin Gothic Std Bk Cd
+NameArray:0,Win,16,ITC Franklin Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCFranklinGothicStd-Book
+FamilyName:ITC Franklin Gothic Std
+StyleName:Book
+MenuName:ITC Franklin Gothic Std Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:ITC Franklin Gothic Std Book
+WritingScript:Roman
+OutlineFileName:\ITCFranklinGothicStd-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30824
+FileModTime:1187795624
+DesignSize:120
+NameArray:0,Mac,4,ITC Franklin Gothic Std Book
+NameArray:0,Win,1,ITC Franklin Gothic Std Book
+NameArray:0,Win,16,ITC Franklin Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCFranklinGothicStd-Demi
+FamilyName:ITC Franklin Gothic Std
+StyleName:Demi
+MenuName:ITC Franklin Gothic Std Book
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:ITC Franklin Gothic Std Demi
+WritingScript:Roman
+OutlineFileName:\ITCFranklinGothicStd-Demi.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31420
+FileModTime:1187795626
+DesignSize:120
+NameArray:0,Mac,4,ITC Franklin Gothic Std Demi
+NameArray:0,Win,1,ITC Franklin Gothic Std Book
+NameArray:0,Win,16,ITC Franklin Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCFranklinGothicStd-Hvy
+FamilyName:ITC Franklin Gothic Std
+StyleName:Heavy
+MenuName:ITC Franklin Gothic Std Heavy
+StyleBits:0
+WeightClass:750
+WidthClass:5
+AngleClass:0
+FullName:ITC Franklin Gothic Std Heavy
+WritingScript:Roman
+OutlineFileName:\ITCFranklinGothicStd-Hvy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31448
+FileModTime:1187795626
+DesignSize:120
+NameArray:0,Mac,4,ITC Franklin Gothic Std Heavy
+NameArray:0,Win,1,ITC Franklin Gothic Std Heavy
+NameArray:0,Win,16,ITC Franklin Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCFranklinGothicStd-Med
+FamilyName:ITC Franklin Gothic Std
+StyleName:Medium
+MenuName:ITC Franklin Gothic Std Med
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:ITC Franklin Gothic Std Medium
+WritingScript:Roman
+OutlineFileName:\ITCFranklinGothicStd-Med.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31544
+FileModTime:1187795626
+DesignSize:120
+NameArray:0,Mac,18,ITC Franklin Gothic Std Med
+NameArray:0,Mac,4,ITC Franklin Gothic Std Medium
+NameArray:0,Win,1,ITC Franklin Gothic Std Med
+NameArray:0,Win,16,ITC Franklin Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1432468865
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+

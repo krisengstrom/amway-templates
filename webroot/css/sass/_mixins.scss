@@ -1,0 +1,56 @@
+// =============================================================================
+// MIXINS
+// =============================================================================
+
+// Clearfix
+@mixin group {zoom:1;
+	&:before, &:after {content:'';display:table;position:relative;}
+	&:after {clear:both}
+}
+
+@mixin container {
+	width:100%;
+	max-width:$containerWidth;
+	margin:0 auto;
+}
+
+// Media Queries
+@mixin breakpoint($point) {
+	@if $point == tablet {
+		@media only screen and (max-width: 1024px) { @content; }
+	}
+	@else if $point == mobile {
+		@media only screen and (max-width : 767px) { @content; }
+	}
+}
+
+@mixin vendor($attr, $val) {
+	-ms-#{$attr}: #{$val};
+	-o-#{$attr}: #{$val};
+	-moz-#{$attr}: #{$val};
+	-webkit-#{$attr}: #{$val};
+	#{$attr}: #{$val};
+}
+
+//Font awesome
+@mixin font-awesome($content) {
+	display: inline-block;
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	content:$content;
+}
+
+@mixin gradient() {
+	background:$green;
+	background: -moz-linear-gradient(left,  #b8e986 0%, #ffbf6f 50%, #ff7372 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#b8e986), color-stop(50%,#ffbf6f), color-stop(100%,#ff7372));
+	background: -webkit-linear-gradient(left,  #b8e986 0%,#ffbf6f 50%,#ff7372 100%);
+	background: -o-linear-gradient(left,  #b8e986 0%,#ffbf6f 50%,#ff7372 100%);
+	background: -ms-linear-gradient(left,  #b8e986 0%,#ffbf6f 50%,#ff7372 100%);
+	background: linear-gradient(to right,  #b8e986 0%,#ffbf6f 50%,#ff7372 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8e986', endColorstr='#ff7372',GradientType=1 );
+}
