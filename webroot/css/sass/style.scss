@@ -166,14 +166,14 @@ section.grid {margin:$sectionGutterWidth (-$gutterWidth/2);}
 
 @include breakpoint(mobile) {padding:0;
 	.container {padding:0; height:50px; position:fixed; background:#fff; z-index:500; top:0;
-		.widgets {font-size:0px; padding:0 15px; position:relative; z-index:500;
+		.widgets {font-size:0px; padding:0 15px; position:relative; z-index:10;
 			.col {margin:0;}
 			i {font-size:20px; height:50px; width:50px; text-align:center; line-height:50px;}
 		}
 		#breadcrumbs {display:none;}
 	}
-	#logo {width:70px; top:15px; z-index:1; margin-left:-35px;}
-	#mobile-menu-toggle {display:block; float:left; margin-left:11px; height:50px; width:50px; background:#fff; color:$font-color;
+	#logo {width:70px; top:15px; z-index:50; margin-left:-35px;}
+	#mobile-menu-toggle {display:block; float:left; margin-left:11px; height:50px; width:50px; background:#fff; color:$font-color; position:relative; z-index:50;
 		&.fa-close {float:right;}
 	}
 	nav {position:absolute; width:100%; top:0; left:0; z-index:100; //display:none;
